@@ -4,7 +4,7 @@
 
 ## 🌟 About Me
 
-- 🎓 **2nd-year BTech student** at **National Institute of Technology, Manipur**
+- 🎓 **3rd-year BTech student** at **National Institute of Technology, Manipur**
 - 👨‍💻 **Computer Science and Engineering**
 - 💻 Passionate about **MERN Stack** and **Computer Vision AI**
 - 🚀 Enthusiastic about **development** and open to **collaborations**

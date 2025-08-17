@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Aditya Laxkar  
 
-![coding](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)
+![banner](https://img.freepik.com/premium-vector/abstract-technology-background-circuit-board-pattern-futuristic-digital-banner_29865-2055.jpg)  
 
 ---
 
@@ -11,6 +11,8 @@
 - 🚀 Love building **real-world impactful projects**  
 - 🌱 Exploring **AI for Healthcare** & **Next-Gen Web Solutions**  
 - 💡 Open to **collaborations**, **research projects**, and **innovative ideas**  
+
+🔗 **Portfolio:** [My Portfolio](https://portfolio-aditya-laxkars-projects.vercel.app/)  
 
 ---
 
@@ -57,6 +59,9 @@ An **AI-powered model** to classify different types of garbage with the goal of 
 ## 📫 Connect with Me  
 
 <div align="center">
+  <a href="https://portfolio-aditya-laxkars-projects.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/aditya-laxkar-191a2328a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>

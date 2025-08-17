@@ -1,7 +1,5 @@
 # 👋 Hey there, I'm Aditya Laxkar  
 
-![banner](https://img.freepik.com/premium-vector/abstract-technology-background-circuit-board-pattern-futuristic-digital-banner_29865-2055.jpg)  
-
 ---
 
 ## 🌟 About Me  

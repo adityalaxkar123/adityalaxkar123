@@ -30,66 +30,87 @@
 
 - 🎓 **3rd-year BTech CSE student** at **NIT Manipur**
 - 💻 **Software & Full Stack MERN Developer**
-- 🧠 **Computer Vision & AI Enthusiast**
+- 🧠 Strong interest in **Computer Vision & Applied AI**
 - 🚀 Experience building **end-to-end production-ready applications**
-- 🛠️ Strong focus on **clean code, APIs, performance & scalability**
-- 🤝 Open to **SDE Internships | Development Internships | Open Source**
+- 🛠️ Focused on **clean code, scalable APIs & system design**
+- 🤝 Open to **SDE Internships | Development Internships**
 
 > *I enjoy building scalable products, solving real-world problems, and shipping features end-to-end.*
 
 ---
 
-## 🧩 Featured Projects  
+## 💼 Experience  
 
-> **Projects are selected to demonstrate real-world development skills, system design, and ownership**
+### 🏢 Full Stack Developer Intern — **Khatakhat Logistics Pvt. Ltd.**  
+📍 Imphal | 🗓️ **Jan 2026 – Feb 2026**
+
+- Built **end-to-end features** across frontend, backend, and REST APIs for a logistics platform  
+- Developed dashboards for **Vendor, Customer, Delivery Partner & Admin** roles  
+- Designed and optimized **REST APIs**, improved backend performance, and handled **database migrations**  
+- Collaborated with product and operations teams to deliver **production-ready features**  
+
+**Tech Stack:**  
+`React.js` · `Node.js` · `Express.js` · `PostgreSQL` · `Docker` · `Next.js` · `Redux Toolkit` · `Prisma` · `Tailwind CSS`
 
 ---
 
+### 🤖 AI / ML Intern — **Edunet Foundation (Shell Collaboration)**  
+📍 Remote | 🗓️ **Jun 2025 – Jul 2025**
+
+- Trained **CNN-based models** for waste classification across **6+ categories**  
+- Improved model accuracy to **94%** using **data augmentation & preprocessing**  
+- Deployed trained models as **scalable REST APIs**  
+
+**Tech Stack:**  
+`Python` · `TensorFlow` · `OpenCV`
+
+---
+
+### 🌱 Open Source Contributor — **GSSoC’24 Extended**  
+📍 Remote | 🗓️ **Aug 2024 – Oct 2024**
+
+- Implemented **full-stack features and bug fixes** across multiple open-source projects  
+- Reduced reported issues by **~20%** through debugging and code reviews  
+- Improved **CI/CD workflows** and Git-based collaboration  
+
+**Tech Stack:**  
+`React.js` · `Node.js` · `MongoDB` · `SQL`
+
+---
+
+## 🧩 Featured Projects  
+
 ### 🩺 VaidyaTek — AI-Powered Doctor Appointment Platform  
-🔗 **Live Demo:** https://vaidyatek-frontend.onrender.com/
+🔗 **Live:** https://vaidyatek-frontend.onrender.com/
 
-**What I built**
-- End-to-end **doctor appointment booking system**
-- Integrated **AI-powered disease diagnosis chatbot**
-- Implemented **location-based nearby doctor & lab discovery**
-- Built **secure Razorpay payment & refund flow**
-- Added **AI Skin Disease Detection** (camera + image upload)
+- Built a **full-scale healthcare platform** with User, Doctor & Admin panels  
+- Integrated **AI disease diagnosis**, **skin disease detection**, and **AI prescriptions**  
+- Enabled **1:1 video consultations (WebRTC)**  
+- Integrated **Razorpay** for appointments, lab tests & medicine orders  
 
-**Why it matters**
-- Solves real healthcare accessibility problems
-- Combines **Full Stack + AI + Payments + Maps**
-- Designed with **scalability & modular architecture**
-
-**Tech Stack**
+**Tech:**  
 `React` · `Node.js` · `Express` · `MongoDB` · `TensorFlow` · `OpenCV`
 
 ---
 
-### 🎙️ Next-Gen Bharat — Podcast & Knowledge Sharing Platform  
-🔗 **Live Demo:** https://next-gen-bharat-fx47.vercel.app/
+### 🎙️ Next-Gen Bharat — Podcast & Knowledge Platform  
+🔗 **Live:** https://next-gen-bharat-fx47.vercel.app/
 
-**What I built**
-- Designed a **multi-role platform** with User, Admin, Alumni & Staff panels
-- Implemented **role-based access & dashboards**
-- Built **content publishing system** (podcasts, blogs, resources)
-- Integrated **Admin ↔ Alumni video consultation workflow**
+- Built a **production-grade platform** with **1K+ active users**  
+- Designed **Admin, Staff & Alumni dashboards** with role-based access  
+- Implemented **content creation**, **AI-based summaries**, and **1:1 video calls**  
 
-**Why it matters**
-- Demonstrates **complex role-based system design**
-- Focus on **clean UI, scalability & maintainability**
-- Real-world collaboration-driven platform
-
-**Tech Stack**
+**Tech:**  
 `React` · `Tailwind CSS` · `Node.js` · `Express` · `MongoDB`
 
 ---
 
 ### ♻️ AI Garbage Classification System  
-**What I built**
-- Computer Vision model to **classify garbage types**
-- Focused on **environmental sustainability use-cases**
 
-**Tech Stack**
+- Developed a **CNN-based waste classification model**  
+- Achieved **94% validation accuracy** using preprocessing & augmentation  
+
+**Tech:**  
 `Python` · `TensorFlow` · `OpenCV`
 
 ---
@@ -97,12 +118,8 @@
 ## 🏆 Competitive Programming & DSA  
 
 - ✅ **300+ DSA problems solved**
-- 🟡 **LeetCode**
-  - ⭐ **1600+ contest rating**
-  - Strong in **Arrays, Trees, Graphs, DP**
-- 🟢 **CodeChef**
-  - ⭐⭐ **2-Star Coder**
-  - 📈 **1400+ rating**
+- 🟡 **LeetCode:** 1600+ rating  
+- 🟢 **CodeChef:** 1400+ rating | ⭐⭐ 2-Star Coder  
 
 ---
 
@@ -124,32 +141,6 @@
 
 ---
 
-## 🌱 Open Source Contributions  
-
-### 🚀 GirlScript Summer of Code — Extended 2024  
-
-> ⚠️ *Badges are shown locally to avoid broken external links.*
-
-<div align="center">
-  <!-- Upload these images to a repo like: adityalaxkar123/assets -->
-  <!-- Then replace the src URLs below with raw GitHub links -->
-  <img src="https://raw.githubusercontent.com/adityalaxkar123/assets/main/gssoc/badge1.png" width="90"/>
-  <img src="https://raw.githubusercontent.com/adityalaxkar123/assets/main/gssoc/badge2.png" width="90"/>
-  <img src="https://raw.githubusercontent.com/adityalaxkar123/assets/main/gssoc/badge3.png" width="90"/>
-  <img src="https://raw.githubusercontent.com/adityalaxkar123/assets/main/gssoc/badge4.png" width="90"/>
-  <img src="https://raw.githubusercontent.com/adityalaxkar123/assets/main/gssoc/badge5.png" width="90"/>
-</div>
-
----
-
-## 🏅 GitHub Achievements  
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityalaxkar123&theme=darkhub&no-frame=true&row=1&column=6" width="650"/>
-</div>
-
----
-
 ## 💻 Languages & Tools  
 
 <div align="center">
@@ -158,11 +149,13 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
 
 </div>
@@ -172,6 +165,6 @@
 <div align="center">
 
 ⭐ **If you like my work, consider starring my repositories**  
-🤝 *Open to SDE Internships, Development Internships & impactful projects*
+🤝 *Open to SDE Internships & Development Internships*
 
 </div>

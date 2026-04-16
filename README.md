@@ -81,7 +81,7 @@
 ## 🧩 Featured Projects  
 
 ### 🩺 VaidyaTek — AI-Powered Doctor Appointment Platform  
-🔗 **Live:** https://vaidyatek-frontend.onrender.com/
+🔗 **Live:** https://vaidyatek.shop/
 
 - Built a **full-scale healthcare platform** with User, Doctor & Admin panels  
 - Integrated **AI disease diagnosis**, **skin disease detection**, and **AI prescriptions**  
